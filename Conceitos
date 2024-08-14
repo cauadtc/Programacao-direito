@@ -1,8 +1,10 @@
 Algoritmo é uma sequência de instruções finitas, que bem definidas resolvem um problema específico ou realizam uma tarefa. Essas ações executáveis, algoritmos, podem ser codificados em várias linguagens da programação e são essenciais para computação e matemática. Algoritmos podem muitas vezes serem relacionados com dados, que são a base da programação, referindo-se às informações que são utilizadas por programas. Esses dados em coletivo de forma organizada são chamados de banco de dados que permite um gerenciamento eficiente das informações. Os bancos de dados são essenciais para a estruturação dos dados e facilitação do seu uso.
 
-Nos dias atuais uma nova forma de inteligência tem sido expandida, a inteligência artificial. A inteligência artificial é a capacidade que soluções tecnológicas têm de simular a inteligência humana em atividades que normalmente utilizariam da atividade humana. As IAs utilizam as sequências algorítmicas para melhorar seu desempenho e funcionamento. As IAs têm sido utilizadas nos mais diversos ramos do trabalho, sendo um deles o campo jurídico. No campo jurídico existe a jurimetria que utiliza de estatísticas para analisar dados jurídicos, trazendo mais objetividade ao direito, principalmente no funcionamento da justiça. A jurimetria demonstra a importância da conexão entre programação e direito.
+Nos dias atuais uma nova forma de inteligência tem sido expandida, a inteligência artificial. A inteligência artificial é a capacidade que soluções tecnológicas têm de simular a inteligência humana em atividades que normalmente utilizariam da atividade humana. As IAs utilizam as sequências algorítmicas para melhorar seu desempenho e funcionamento. As IAs têm sido utilizadas nos mais diversos ramos do trabalho, sendo um deles o campo jurídico. No campo jurídico existe a jurimetria que utiliza de estatísticas para analisar dados jurídicos, trazendo mais objetividade ao direito, principalmente no funcionamento da justiça. A jurimetria demonstra a importância da conexão entre programação e direito. As IAs também utilizam de redes neurais que são programas de aprendizado de máquina, que toma decisões de uma forma semelhante ao cérebro humano, utilizando processos que imitam a maneira como os neurônios trabalham juntos para identificar fenômenos, avaliar opções e chegar a conclusões.
 
+Zero rating ocorre quando as operadoras de internet não descontam o uso de certos serviços ou aplicativos da cota de dados do usuário. Em outras palavras, o tráfego desses serviços não afeta o limite de dados contratado. Isso é feito frequentemente por meio de ofertas ou acordos entre as operadoras e empresas. Porém, essa prática pode gerar preocupações sobre a justiça na competição e a neutralidade da rede. A neutralidade da rede é um conceito fundamental para garantir a liberdade e a equidade na internet garantindo que todos os usuários tenham as mesmas chances de acessar e compartilhar informações e conteúdos, incluindo o tráfego de informações na rede.
 
+Nuvem refere-se à entrega de serviços de computação pela internet. Isso inclui uma variedade de ofertas, como armazenamento de dados, computação, plataformas de desenvolvimento e até mesmo softwares. Nuvem se relaciona muito com o conceito de servidor que é um super computador configurado com um ou mais CPU's, esses servidores são dedicados a fornecer serviços e recursos para outros computadores, conhecidos como clientes, em uma rede. 
 
 Fontes utilizadas:
  https://coodesh.com/blog/dicionario/o-que-e-algoritmo/#:~:text=A%2520defini%C3%A7%C3%A3o%2520do%2520que%2520%C3%A9,a%2520realiza%C3%A7%C3%A3o%2520de%2520uma%2520tarefa.
@@ -10,5 +12,11 @@ Fontes utilizadas:
 https://www.alura.com.br/artigos/estruturas-de-dados-introducao#:~:text=O%2520que%2520s%C3%A3o%2520dados%253F,%252D%2520por%2520exemplo%252C%2520uma%2520vari%C3%A1vel.
 
 https://www.tableau.com/pt-br/learn/articles/ai#:~:text=A%2520Intelig%C3%AAncia%2520Artificial%2520%C3%A9%2520a,que%2520recebem%2520de%2520seus%2520usu%C3%A1rios.
+
+https://teletime.com.br/18/06/2024/zero-rating-e-neutralidade-nao-se-misturam-defende-entidade-de-internet/#:~:text=Zero%20rating%20%C3%A9%20a%20pr%C3%A1tica,portanto%2C%20as%20regras%20de%20neutralidade.
+
+https://www.jusbrasil.com.br/artigos/entenda-de-uma-vez-por-todas-o-conceito-de-neutralidade-da-rede/1839681291#:~:text=A%20neutralidade%20da%20rede%20%C3%A9%20um%20princ%C3%ADpio%20essencial%20para%20garantir,de%20conte%C3%BAdo%20que%20est%C3%A3o%20transmitindo.
+
+https://4infra.com.br/o-que-e-um-servidor-em-computacao/
 
 https://chatgpt.com
