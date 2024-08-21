@@ -1,0 +1,10 @@
+A Lei Geral de Proteção de Dados (LGPD) e os data centers no Brasil estão intimamente relacionados. A LGPD, sancionada em 2018 e em vigor a partir de 2020, estabelece as regras para coleta, utilização, armazenamento e compartilhamento de dados pessoais, com o objetivo de garantir a confidencialidade e proteção de dados pessoais. A LGPD e os data centers são muito importantes para a proteção de dados, transparência e conformidade entre controladores e operadores, transferência internacional de dados e comunicação de incidentes virtuais.
+
+Os formatos de arquivos podem ser classificados como proprietários ou abertos, e essa classificação tem implicações importantes para a acessibilidade e a preservação de dados públicos. Formatos proprietários, como .docx e .psd, são criados e controlados por empresas específicas (como Microsoft e Adobe). Esses formatos podem exigir softwares específicos para acessar e manipular os dados, o que pode limitar o acesso e criar barreiras, especialmente se o software necessário não estiver amplamente disponível. Por outro lado, formatos abertos, como .csv e .pdf, são baseados em padrões que são amplamente documentados e suportados por diversas ferramentas e plataformas. Os dados em formatos abertos são mais acessíveis, pois podem ser utilizados sem a necessidade de softwares específicos. Além disso, esses formatos tendem a ser mais duradouros, facilitando a preservação a longo prazo, uma vez que são projetados para serem amplamente compatíveis e sustentáveis.
+
+No contexto de dados públicos, a escolha entre formatos proprietários e abertos pode afetar a transparência e a facilidade com que o público e outras instituições podem acessar e utilizar essas informações. Optar por formatos abertos pode promover maior interoperabilidade e reduzir custos, enquanto os formatos proprietários podem criar desafios relacionados ao custo e à compatibilidade futura. Portanto, a adoção de formatos abertos para dados públicos é geralmente preferida por facilitar o acesso e a preservação.
+
+Referências:
+https://www.gov.br/anpd/pt-br
+
+Lei nº 13.709, de 14 de agosto de 2018
