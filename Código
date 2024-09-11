@@ -1,0 +1,25 @@
+Fiz um programa de contar a quantidade de nomes e fazer uma lista com nomes. 
+
+# Programa para coletar uma lista de nomes e exibir a lista em ordem alfabética
+nomes = []  # Inicializa uma lista vazia para armazenar os nomes
+
+while True:  # Inicia um loop infinito
+    # Solicita ao usuário que insira um nome
+    nome = input("Digite um nome (ou pressione Enter para finalizar): ")
+    
+    # Verifica se a entrada é uma string vazia para encerrar o loop
+    if nome == "":
+        break  # Sai do loop se a entrada for uma string vazia
+    
+    # Adiciona o nome à lista
+    nomes.append(nome)
+
+# Verifica se a lista de nomes não está vazia
+if nomes:
+    # Ordena a lista de nomes em ordem alfabética
+    nomes.sort()
+    print(f"Você digitou {len(nomes)} nomes. Aqui está a lista em ordem alfabética:")
+    for nome in nomes:
+        print(nome)  # Imprime cada nome da lista
+else:
+    print("Nenhum nome foi digitado.")
