@@ -1,0 +1,10 @@
+def imprimir_vogais(texto):
+    vogais = "aeiouAEIOU"
+    resultado = [letra for letra in texto if letra in vogais]
+    return ''.join(resultado)
+
+# Exemplo de uso
+if __name__ == "__main__":
+    frase = "Amo Programacao e Direito"
+    vogais_extraidas = imprimir_vogais(frase)
+    print("Vogais extraídas:", vogais_extraidas)
